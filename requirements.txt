@@ -1,0 +1,7 @@
+pandas==2.2.3
+requests==2.32.3
+mysql-connector-python==9.2.0
+dotenv==0.9.9
+setuptools==78.1.0
+sqlalchemy==2.0.40
+pyspark==3.5.5
